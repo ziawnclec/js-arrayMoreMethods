@@ -11,7 +11,6 @@ function getPopularCategories(products) {
   return uniqueCategories;
 }
 
-
 const products = [
   { name: 'Phone', category: 'Electronics', sales: 10 },
   { name: 'Tablet', category: 'Electronics', sales: 3 },
